@@ -8,7 +8,7 @@ I am an Electrical and Computer Engineering student with interests in software d
 - Java
 - PLC Programming
 - Industrial IoT (IIoT)
-- Arduino
+- Arduino and ESP32
 - Problem Solving
 
 ## Current Work
