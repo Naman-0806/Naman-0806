@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Naman Singhal 👋
 
-<!--
-**Naman-0806/Naman-0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an Electrical and Computer Engineering student with interests in software development, programming, automation, IoT, and power systems. Currently, I am working on a research project with Tata Power, where I am gaining practical experience in solving real-world engineering problems.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- PLC Programming
+- Industrial IoT (IIoT)
+- Arduino
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+🔹 Research Project with Tata Power
+
+## Projects
+- Industrial IoT based monitoring systems
+- Arduino-based embedded projects
+- PLC automation projects
+- Academic software development projects
+
+## Technologies
+- Python
+- Java
+- Git & GitHub
+
+## Education
+Bachelor's Degree in Electrical and Computer Engineering
+
+---
+*"Learning, Building, and Improving Every Day."*
